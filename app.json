@@ -1,0 +1,17 @@
+{
+  "name": "Sindu",
+  "displayName": "Sindu",
+  "expo": {
+    "name": "Sindu",
+    "slug": "Sindu",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
